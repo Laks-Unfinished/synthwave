@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/assets/stanford-logo.png" width="400" />
 </p>
-<h1 align="center">Tradução dos cursos em inglês de matemática da universide Stanford</h1>
+<h1 align="center">Tradução dos cursos em inglês de matemática da universidade Stanford</h1>
 <h4 align="center"><a href="https://github.com/LaksCastro/stanford-mathematics-ptbr#roadmap-externo"><code>Roadmap</code></a></h4>
 <p align="center">Tradução de cursos disponibilizados online pela universidade de Stanford, e deixá-lo disponível para a comunidade ptbr</p>
 <p align="center">
