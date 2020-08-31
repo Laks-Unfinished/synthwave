@@ -26,6 +26,8 @@ var VRButton = {
         currentSession = null;
       }
 
+      //
+
       button.style.display = "";
 
       button.style.cursor = "pointer";
